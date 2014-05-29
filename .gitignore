@@ -1,0 +1,6 @@
+#.gitignore for p_admin
+~\.lock*
+## Ignore emacs backup files
+*~
+\#*\#
+.\#*
